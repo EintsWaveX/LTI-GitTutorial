@@ -22,10 +22,10 @@
 
 Here, you can insert your repository to your own GitHub account, or you can push them in here. The choice is yours to decide!
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [{ Muhammad Gazali}](https://github.com/xagafax) `[Member To Be Software Enggineers]`
 
-> [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> [This GUI-based application, developed with PyQt6, simplifies access to websites and installed programs. Users can enter a website URL and open it directly in their default browser with a single click. The application also provides quick access to commonly used programs, such as File Explorer, MY FOV game, Facebook, and anythings else. Designed for users who frequently switch between applications and websites, this tool enhances efficiency by eliminating the need to open each individually]  
+> Project Link: [{ clicky }](https://github.com/xagafax/belajar)
 
 - [{ Full Name }](https://www.google.com) `[Member To Be...]`
 
