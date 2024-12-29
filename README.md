@@ -105,12 +105,12 @@ Here, you can insert your repository to your own GitHub account, or you can push
 > Darla's LTI's Internship Project, Progress Report #2  
 >> `Project Link:` [Picture Color Customization](https://github.com/lyca-byte/LTI-GitTutorial/tree/master/Project_Darla/Picture%20Color%20Customization)
 
-#### 🟡 「８」
+#### 🟢 「８」
 
-- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
+- [Muhammad Akbar Bagaskara Kayana](https://github.com/uzykz) `[S.E. Internship Member of LTI, 2024/2025]`
 
-> [DESCRIPTION]  
->> `Project Link:` [Project Title](https://www.google.com)
+> This application is gonna help you to study by making a shortcut to various website that can help your study. Besides that you can get a great motivation to uplift your morale in your study.
+>> `Project Link:` [Help My Study](https://github.com/uzykz/Help-My-Study/tree/main)
 
 #### 🟡 「９」
 
